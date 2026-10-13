@@ -1,0 +1,12 @@
+{
+  "project": "crm-enrichment-agent",
+  "resource": "leads",
+  "samples": [
+    {
+      "id": "l1",
+      "email": "ceo@acme.test",
+      "company": "Acme",
+      "role": "CEO"
+    }
+  ]
+}
